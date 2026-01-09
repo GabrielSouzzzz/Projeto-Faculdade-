@@ -52,5 +52,5 @@ Sistema Acadêmico em Python e SQLite desenvolvido por um grupo de 5 alunos. Per
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git
+git clone https://github.com/GabrielSouzzzz/Projeto-Faculdade-
 
