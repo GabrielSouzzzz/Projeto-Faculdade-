@@ -14,7 +14,9 @@ Sistema Acadêmico em Python e SQLite desenvolvido por um grupo de 5 alunos. Per
 
 ## 🛠️ Tecnologias utilizadas
 
-- 🐍 Python 3  
+- 🐍 Python 3
+- CSS
+- Flask
 - 🗄️ SQLite  
 - 📦 Bibliotecas padrão: `sqlite3`, `datetime`  
 
